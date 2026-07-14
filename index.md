@@ -1,8 +1,4 @@
----
-layout: page
-title: Home
-permalink: /Home/
----
+
 
 ## Senior Data & AI Consultant
 
