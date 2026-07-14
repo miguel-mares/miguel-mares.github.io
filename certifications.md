@@ -19,4 +19,4 @@ permalink: /certifications/
 
 ## Future Certifications
 
-- Add future certifications here.
+- Coming Soon
