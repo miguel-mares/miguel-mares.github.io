@@ -4,8 +4,6 @@ title: Certifications
 permalink: /certifications/
 ---
 
-# Certifications
-
 ## Current Certifications
 
 - Microsoft Certified: Azure Fundamentals
