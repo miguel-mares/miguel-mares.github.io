@@ -1,9 +1,6 @@
 ---
 layout: home
-title: Home
 ---
-
-# Miguel Mares
 
 ## Senior Data & AI Consultant
 
