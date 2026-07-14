@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 Hello, I'm Miguel Mares.
 
 I am a Senior Data & AI Consultant focused on helping organizations design and implement secure, scalable analytics and artificial intelligence solutions.
