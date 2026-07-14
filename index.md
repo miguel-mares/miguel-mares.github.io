@@ -1,5 +1,7 @@
-
-
+---
+layout: home
+title: Home
+---
 ## Senior Data & AI Consultant
 
 Azure AI • Azure Government • Synapse Analytics • Power BI • Data Engineering
