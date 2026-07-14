@@ -1,18 +1,28 @@
-:root {
-    --bg: #ffffff;
-    --text: #222222;
-    --accent: #0078d4;
+#theme-toggle {
+    float: right;
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    cursor: pointer;
 }
 
+/* Light Theme */
 body {
-    background: var(--bg);
-    color: var(--text);
+    background-color: white;
+    color: #222;
 }
 
-.site-header {
-    border-top: 4px solid var(--accent);
+/* Dark Theme */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
 }
 
-h1, h2, h3 {
-    color: var(--accent);
+body.dark-mode a {
+    color: #4da3ff;
+}
+
+body.dark-mode .site-header,
+body.dark-mode .site-footer {
+    background-color: #1e1e1e;
 }
