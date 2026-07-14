@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: Home
+title: Home
+permalink: /Home/
 ---
 
 ## Senior Data & AI Consultant
