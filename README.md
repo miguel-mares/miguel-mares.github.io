@@ -1,5 +1,3 @@
-# Miguel Mares
-
 Senior Data & AI Consultant
 
 ## Areas of Expertise
