@@ -5,7 +5,9 @@ theme: minima
 header_pages:
   - about.md
   - projects.md
-  - publications.md
   - certifications.md
-  - resume.md
+  - publications.md
   - contact.md
+
+plugins:
+  - jekyll-feed
