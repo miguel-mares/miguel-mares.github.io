@@ -2,6 +2,8 @@
 layout: home
 title: Home
 ---
+<button id="theme-toggle">🌙 Dark Mode</button>
+
 ## Senior Data & AI Consultant
 
 Azure AI • Azure Government • Synapse Analytics • Power BI • Data Engineering
