@@ -1,0 +1,18 @@
+:root {
+    --bg: #ffffff;
+    --text: #222222;
+    --accent: #0078d4;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+}
+
+.site-header {
+    border-top: 4px solid var(--accent);
+}
+
+h1, h2, h3 {
+    color: var(--accent);
+}
