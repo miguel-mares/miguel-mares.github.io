@@ -1,0 +1,11 @@
+title: Miguel Mares
+description: Senior Data & AI Consultant
+theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
+  - publications.md
+  - certifications.md
+  - resume.md
+  - contact.md
